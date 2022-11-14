@@ -1,2 +1,3 @@
 https://docs.python.org/3/library/urllib.parse.html
 https://docs.python.org/3/library/urllib.parse.html
+https://datascience.stackexchange.com/questions/24452/in-supervised-learning-why-is-it-bad-to-have-correlated-features

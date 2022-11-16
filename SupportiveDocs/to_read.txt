@@ -1,0 +1,5 @@
+* Agorithms to compute the nearest neighbors in KNN:
+  1. Ball Tree
+  2. KD Tree
+  3. Brute force search
+  

@@ -12,3 +12,4 @@ https://builtin.com/data-science/step-step-explanation-principal-component-analy
 * SVM series Statquest
 * LOC and ILOC operations
 * XGBOOST
+* Parameters and concept of each used ML algorithm. 
